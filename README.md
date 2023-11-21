@@ -2,7 +2,7 @@
 Solving Randomly Generated Mazes
 
 ## Maze is created using Randomized DFS
-### Make sure u have the SDL library Files 
+### SDL library Files Required
 run 'make' command in terminal 
 ```console
 make
