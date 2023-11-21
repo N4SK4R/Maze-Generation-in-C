@@ -12,4 +12,5 @@ then ./app to run program
 ```console
 ./app
 ```
-<img width="512" alt="man" src="https://github.com/N4SK4R/Maze-Generation-in-C/Assets/generation.gif">
+![Maze generating](Assets/generation.gif) 
+![Maze solving](Assets/solving.gif)
